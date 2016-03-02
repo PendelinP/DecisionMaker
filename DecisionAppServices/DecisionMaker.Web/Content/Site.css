@@ -1,0 +1,17 @@
+﻿html, body {
+    height: 100%;
+    background: #dddddd;
+}
+
+.decisionContainer {
+  display: table;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.decisionText {
+  font-size: 150px;
+  display: table-cell;
+  vertical-align: middle;
+}
