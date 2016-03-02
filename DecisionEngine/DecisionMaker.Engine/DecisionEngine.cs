@@ -6,6 +6,9 @@ namespace DecisionMaker.Engine
 {
     public class DecisionEngine
     {
+        /// <summary>
+        /// predefined list of decisions
+        /// </summary>
         private List<string> decisions = new List<string>
         {
             "Ja",
