@@ -1,0 +1,5 @@
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Engine\bin\Debug\DecisionMaker.Engine.dll
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Engine\bin\Debug\DecisionMaker.Engine.pdb
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Engine\obj\Debug\DecisionMaker.Engine.csprojResolveAssemblyReference.cache
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Engine\obj\Debug\DecisionMaker.Engine.dll
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Engine\obj\Debug\DecisionMaker.Engine.pdb

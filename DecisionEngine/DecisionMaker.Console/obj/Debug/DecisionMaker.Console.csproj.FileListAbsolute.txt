@@ -1,0 +1,11 @@
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\bin\Debug\DecisionMaker.Console.exe.config
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\bin\Debug\DecisionMaker.Console.exe
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\bin\Debug\DecisionMaker.Console.pdb
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\obj\Debug\DecisionMaker.Console.csprojResolveAssemblyReference.cache
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\obj\Debug\DecisionMaker.Console.exe
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\obj\Debug\DecisionMaker.Console.pdb
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\bin\Debug\DecisionMaker.Engine.dll
+D:\Vorträge\BASTA! 2016\App Services\DecisionMaker\DecisionMaker\DecisionMaker.Console\bin\Debug\DecisionMaker.Engine.pdb
+C:\Users\Philipp\Documents\GitHub\DecisionMaker\DecisionEngine\DecisionMaker.Console\bin\Debug\DecisionMaker.Console.exe.config
+C:\Users\Philipp\Documents\GitHub\DecisionMaker\DecisionEngine\DecisionMaker.Console\obj\Debug\DecisionMaker.Console.exe
+C:\Users\Philipp\Documents\GitHub\DecisionMaker\DecisionEngine\DecisionMaker.Console\obj\Debug\DecisionMaker.Console.pdb
